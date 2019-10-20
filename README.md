@@ -1,2 +1,0 @@
-# ppdirect
-Porcelain Pavers Direct
