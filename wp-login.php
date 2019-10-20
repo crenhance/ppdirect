@@ -9,11 +9,11 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Log In &lsaquo; Porcelain Pavers Direct &#8212; WordPress</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
-<link rel='stylesheet' id='dashicons-css'  href='/https://crenhance.github.io/ppdirect/wp-includes/css/dashicons.min.css?ver=5.2.4' type='text/css' media='all' />
-<link rel='stylesheet' id='buttons-css'  href='/https://crenhance.github.io/ppdirect/wp-includes/css/buttons.min.css?ver=5.2.4' type='text/css' media='all' />
-<link rel='stylesheet' id='forms-css'  href='/https://crenhance.github.io/ppdirect/wp-admin/css/forms.min.css?ver=5.2.4' type='text/css' media='all' />
-<link rel='stylesheet' id='l10n-css'  href='/https://crenhance.github.io/ppdirect/wp-admin/css/l10n.min.css?ver=5.2.4' type='text/css' media='all' />
-<link rel='stylesheet' id='login-css'  href='/https://crenhance.github.io/ppdirect/wp-admin/css/login.min.css?ver=5.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://127.0.0.1/https:/crenhance.github.io/ppdirect/wp-includes/css/dashicons.min.css?ver=5.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='buttons-css'  href='http://127.0.0.1/https:/crenhance.github.io/ppdirect/wp-includes/css/buttons.min.css?ver=5.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='forms-css'  href='http://127.0.0.1/https:/crenhance.github.io/ppdirect/wp-admin/css/forms.min.css?ver=5.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='l10n-css'  href='http://127.0.0.1/https:/crenhance.github.io/ppdirect/wp-admin/css/l10n.min.css?ver=5.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='login-css'  href='http://127.0.0.1/https:/crenhance.github.io/ppdirect/wp-admin/css/login.min.css?ver=5.2.4' type='text/css' media='all' />
 	<meta name='robots' content='noindex,noarchive' />
 	<meta name='referrer' content='strict-origin-when-cross-origin' />
 		<meta name="viewport" content="width=device-width" />
@@ -22,7 +22,7 @@
 		<div id="login">
 		<h1><a href="https://wordpress.org/">Powered by WordPress</a></h1>
 	
-	<form name="loginform" id="loginform" action="/https://crenhance.github.io/ppdirect/wp-login.php" method="post">
+	<form name="loginform" id="loginform" action="http://127.0.0.1/https:/crenhance.github.io/ppdirect/wp-login.php" method="post">
 	<p>
 		<label for="user_login">Username or Email Address<br />
 		<input type="text" name="log" id="user_login" class="input" value="" size="20" autocapitalize="off" /></label>
@@ -40,7 +40,7 @@
 	</form>
 
 			<p id="nav">
-					<a href="/https://crenhance.github.io/ppdirect/wp-login.php?action=lostpassword">Lost your password?</a>
+					<a href="http://127.0.0.1/https:/crenhance.github.io/ppdirect/wp-login.php?action=lostpassword">Lost your password?</a>
 				</p>
 	
 	<script type="text/javascript">
@@ -57,7 +57,7 @@
 			if(typeof wpOnload=='function')wpOnload();
 			</script>
 
-			<p id="backtoblog"><a href="/https://crenhance.github.io/ppdirect/">
+			<p id="backtoblog"><a href="http://127.0.0.1/https:/crenhance.github.io/ppdirect/">
 		&larr; Back to Porcelain Pavers Direct	</a></p>
 			
 	</div>
